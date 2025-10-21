@@ -126,6 +126,7 @@ p {
     margin-left: 8px;
     text-align: left;
     padding-left: 20px;
+    margin-bottom: 30px
 }
 
 .see-more:hover {
@@ -205,3 +206,4 @@ a {
         margin-bottom: 30px;
     }
 }
+
